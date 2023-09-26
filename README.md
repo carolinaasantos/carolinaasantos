@@ -3,12 +3,18 @@
 Meu nome é Carolina da Silva Santos :))
 - 🔭 Sou estudante de Engenharia de Computação
 - 💙 Atualmente sou Trainee na [CATI Jr](https://catijr.com.br/)
-- 🌱 Estou me desenvolvendo nas linguagens C, C++ e JavaScript
 - 💬 Vou utilizar esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos!
+- 🌱 Estou me desenvolvendo nas linguagens:
+
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 #### Você pode entrar em contato comigo! 📫
 _E-mail:_ carolina.santos@estudante.ufscar.br
 
-_Instagram:_ carolinaa_.santos
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-silva-santos)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carolinaa_.santos?igshid=YTQwZjQ0NmI0OA==)
 
 ![](https://media.tenor.com/0sRqUfe4XHwAAAAC/duck-cute.gif)
