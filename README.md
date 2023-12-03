@@ -2,7 +2,7 @@
 
 Meu nome é Carolina da Silva Santos :))
 - 🔭 Sou estudante de Engenharia de Computação
-- 💙 Atualmente sou Trainee na [CATI Jr](https://catijr.com.br/)
+- 💙 Faço parte da pasta de Operações na [CATI Jr](https://catijr.com.br/)
 - 💬 Vou utilizar esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos!
 - 🌱 Estou me desenvolvendo nas linguagens:
 
