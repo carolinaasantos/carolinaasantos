@@ -1,21 +1,27 @@
 ## Seja bem-vindo ao meu perfil! 🥰💙
 
 Meu nome é Carolina da Silva Santos :))
-- 🔭 Sou estudante de Engenharia de Computação
-- 💙 Faço parte da pasta de Operações na [CATI Jr](https://catijr.com.br/)
-- 💬 Vou utilizar esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos!
-- 🌱 Estou me desenvolvendo nas linguagens:
+- 🔭 Sou estudante de Engenharia de Computação na UFSCar
+- 💙 Sou coordenadora de Operações da [CATI Jr](https://catijr.com.br/)
+- 📚 Faço parte do Centro Acadêmico da Engenharia de Computação (CAEnC), Pyladies São Carlos e da Maratona de Programação da UFSCar (M@U)
+- 💬 Vou utilizar esse espaço para minha organização e compartilhamento dos projetos que desenvolvi!
+- 🌱 Estou me aprimorando nas tecnologias:
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## 📊 GitHub Stats:
 <!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=carolinaasantos&theme=tokyonight&hide_border=false)<br/>
--->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinaasantos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinaasantos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinaasantos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <!--
 ---
 [![](https://visitcount.itsvg.in/api?id=carolinaasantos&icon=0&color=0)](https://visitcount.itsvg.in)
