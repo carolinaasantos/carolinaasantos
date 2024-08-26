@@ -1,10 +1,11 @@
 ## Seja bem-vindo ao meu perfil! 🥰💙
 
-Meu nome é Carolina da Silva Santos :))
+Meu nome é Carolina Santos :))
 - 🔭 Sou estudante de Engenharia de Computação na UFSCar
-- 💙 Sou coordenadora de Operações da [CATI Jr](https://catijr.com.br/)
-- 📚 Faço parte do Centro Acadêmico da Engenharia de Computação (CAEnC), Pyladies São Carlos e da Maratona de Programação da UFSCar (M@U)
+- 💙 Sou diretora de Operações da [CATI Jr](https://catijr.com.br/)
+- 📚 Sou vice-presidente do Centro Acadêmico da Engenharia de Computação (CAEnC), faço parte do Pyladies São Carlos, Women in Tech (WiT) e da Maratona de Programação da UFSCar (M@U)
 - 💬 Vou utilizar esse espaço para minha organização e compartilhamento dos projetos que desenvolvi!
+- 💻 Me interesso por Embeeded Systems, Data Science, Cybersecurity, Web Development, Software Engineering e Internet of Things (IoT)
 - 🌱 Estou me aprimorando nas tecnologias:
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
