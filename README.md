@@ -2,10 +2,10 @@
 
 Meu nome é Carolina Santos :))
 - 🔭 Sou estudante de Engenharia de Computação na UFSCar
-- 💙 Sou diretora de Operações da [CATI Jr](https://catijr.com.br/)
-- 📚 Sou vice-presidente do Centro Acadêmico da Engenharia de Computação (CAEnC), faço parte do Pyladies São Carlos, Women in Tech (WiT) e da Maratona de Programação da UFSCar (M@U)
+- 💙 Sou desenvolvedora front-end na [CATI Jr](https://catijr.com.br/) e também já fui diretora de Operações
+- 📚 Faço parte de um grupo feminino Women in Tech (WiT) e também atuo como embaixadora e voluntária no Instituto Teckids, que busca ensinar segurança digital para crianças, adolescentes e jovens.
 - 💬 Vou utilizar esse espaço para minha organização e compartilhamento dos projetos que desenvolvi!
-- 💻 Me interesso por Embeeded Systems, Data Science, Cybersecurity, Web Development, Software Engineering e Internet of Things (IoT)
+- 💻 Me interesso por Embeeded Systems, Data Science, Robotics, Cybersecurity, Web Development, Software Engineering e Internet of Things (IoT)
 - 🌱 Estou me aprimorando nas tecnologias:
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
