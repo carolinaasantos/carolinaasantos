@@ -6,8 +6,8 @@ My name is Carolina Santos :))
 - 📚 I'm a member of Women in Tech (WiT) and the Society of Women Engineers (SWE) UFSCar, two organizations that support women in STEM. I'm also a Teckids Institute Ambassador, that promotes digital education for children and adolescents, and a volunteer at the social organization Operação Natal, that helps vulnerable families have a better Christmas
 - 🧪 I am an undergraduate research student at FAPESP in the field of Robotics and Deep Learning, using YOLO for image detection and classification
 - 💂‍♂️ I was a Visiting Researcher in Mobile Robotics and Multi-Agent Systems at the Bristol Robotics Laboratory, in the United Kingdom
-- 💻 My areas of interest include Robotics, Embedded Systems, Artificial Intelligence and Machine Learning, Data Science, Cybersecurity, Software Engineering, and the Internet of Things (IoT).
-- 🌱 I currently have experience with the following technologies
+- 💻 My areas of interest include Robotics, Embedded Systems, Artificial Intelligence and Machine Learning, Data Science, Cybersecurity, Software Engineering, and the Internet of Things (IoT)
+- 🌱 I currently have experience with the following technologies:
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -24,6 +24,7 @@ My name is Carolina Santos :))
 _E-mail:_ carolina.santos@estudante.ufscar.br
 
 _LinkedIn:_ https://www.linkedin.com/in/carolina-silva-santos
+
 
 ![](https://media.tenor.com/0sRqUfe4XHwAAAAC/duck-cute.gif)
 
