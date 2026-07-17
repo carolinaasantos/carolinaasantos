@@ -4,7 +4,7 @@ My name is Carolina Santos :))
 - 🔭 I'm a Computer Engineering student at UFSCar
 - 💙 I was a Front-End Developer at [CATI Jr](https://catijr.com.br/) and also served as the Director of Operations
 - 📚 I'm a member of Women in Tech (WiT) and the Society of Women Engineers (SWE) UFSCar, two organizations that support women in STEM. I'm also a Teckids Institute Ambassador, that promotes digital education for children and adolescents, and a volunteer at the social organization Operação Natal, that helps vulnerable families have a better Christmas
-- 🧪 I am an undergraduate research student in the field of Robotics and Deep Learning, using YOLO for image detection and classification
+- 🧪 I am an undergraduate research student at FAPESP in the field of Robotics and Deep Learning, using YOLO for image detection and classification
 - 💂‍♂️ I was a Visiting Researcher in Mobile Robotics and Multi-Agent Systems at the Bristol Robotics Laboratory, in the United Kingdom
 - 💻 My areas of interest include Robotics, Embedded Systems, Artificial Intelligence and Machine Learning, Data Science, Cybersecurity, Software Engineering, and the Internet of Things (IoT).
 - 🌱 I currently have experience with the following technologies
