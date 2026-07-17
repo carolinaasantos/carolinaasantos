@@ -1,36 +1,30 @@
-## Seja bem-vindo ao meu perfil! 🥰💙
+Welcome to my profile! 🥰💙
 
-Meu nome é Carolina Santos :))
-- 🔭 Sou estudante de Engenharia de Computação na UFSCar
-- 💙 Sou desenvolvedora front-end na [CATI Jr](https://catijr.com.br/) e também já fui diretora de Operações
-- 📚 Faço parte de um grupo feminino Women in Tech (WiT) e também atuo como embaixadora e voluntária no Instituto Teckids, que busca ensinar segurança digital para crianças, adolescentes e jovens.
-- 💬 Vou utilizar esse espaço para minha organização e compartilhamento dos projetos que desenvolvi!
-- 💻 Me interesso por Embeeded Systems, Data Science, Robotics, Cybersecurity, Web Development, Software Engineering e Internet of Things (IoT)
-- 🌱 Estou me aprimorando nas tecnologias:
+My name is Carolina Santos :))
+- 🔭 I'm a Computer Engineering student at UFSCar
+- 💙 I was a Front-End Developer at [CATI Jr](https://catijr.com.br/) and also served as the Director of Operations
+- 📚 I'm a member of Women in Tech (WiT) and the Society of Women Engineers (SWE) UFSCar, two organizations that support women in STEM. I'm also a Teckids Institute Ambassador, that promotes digital education for children and adolescents, and a volunteer at the social organization Operação Natal, that helps vulnerable families have a better Christmas
+- 🧪 I am an undergraduate research student in the field of Robotics and Deep Learning, using YOLO for image detection and classification
+- 💂‍♂️ I was a Visiting Researcher in Mobile Robotics and Multi-Agent Systems at the Bristol Robotics Laboratory, in the United Kingdom
+- 💻 My areas of interest include Robotics, Embedded Systems, Artificial Intelligence and Machine Learning, Data Science, Cybersecurity, Software Engineering, and the Internet of Things (IoT).
+- 🌱 I currently have experience with the following technologies
 
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-## 📊 GitHub Stats:
-<!--
-![](https://github-readme-streak-stats.herokuapp.com/?user=carolinaasantos&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinaasantos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+💬 I'm passionate about learning and excited to explore many different fields throughout my university journey! I'll use this space to stay organized, share the projects I've developed, and showcase all the areas I've explored along the way. 😁
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinaasantos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!--
----
-[![](https://visitcount.itsvg.in/api?id=carolinaasantos&icon=0&color=0)](https://visitcount.itsvg.in)
-Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-#### Você pode entrar em contato comigo! 📫
+### Feel free to get in touch! 📫
 _E-mail:_ carolina.santos@estudante.ufscar.br
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-silva-santos)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carolinaa_.santos?igshid=YTQwZjQ0NmI0OA==)
+_LinkedIn:_ https://www.linkedin.com/in/carolina-silva-santos
 
 ![](https://media.tenor.com/0sRqUfe4XHwAAAAC/duck-cute.gif)
+
+Never give up on your dreams, and keep doing your best (almost) every day... 💖✨
